@@ -6,7 +6,9 @@
 
 ## 🖼️ Preview
 
+![Dashboard E-commerce Analytics](./dashboard-capa.png)
 ![Dashboard E-commerce Analytics](./dashboard-visao-geral.png)
+![Dashboard E-commerce Analytics](./dashboard-detalhamento.png)
 
 ---
 
